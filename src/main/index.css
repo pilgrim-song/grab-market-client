@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-#header {
+/* #header {
   height: 64px;
   display: flex;
   justify-content: center;
@@ -20,7 +20,7 @@
 #footer {
   height: 200px;
   background-color: rgb(230, 230, 230);
-}
+} */
 
 #banner {
   height: 300px;
